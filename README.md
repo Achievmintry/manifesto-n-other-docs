@@ -38,6 +38,6 @@ Further token drops will be made to members of joining DAOs, award winners, NFT 
 ### Awards - The Wei, The Shannon and 1ups
 super dope fresh art NFTs/ Artists will get royalties / Dao will take a cut to sustain
 * Periodic awards The Wei (yearly awards), The Shannon (periodic awards) 
-* 1ups - recognize a co future or worker.
+* 1ups - recognize a co future of worker.
 * DAO specific achievement and skill certificates
 * Every community can have their own NFT Awards
