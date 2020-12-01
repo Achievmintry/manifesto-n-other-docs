@@ -1,4 +1,4 @@
-# Acheivmentry (The Community is Stronk)
+# ChievMint (The Community is Stronk)
 
 Recognition is good
 
